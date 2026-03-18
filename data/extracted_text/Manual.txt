@@ -1,0 +1,28 @@
+--- Page 1 ---
+Fig. 1
+Disassembly and assembly instructions for
+roaster motor.
+Parts:
+element 1. Silicone seal
+element 2. Assembled motor and impeller
+element 3. Decorative and protective motor linings
+
+--- Page 2 ---
+WARNING!:
+Disconnection and connection of the motor wiring is carried out first and is carried out only on
+de-energized equipment.
+Installation and dismantling of this element should be carried out by an EC&I engineer or an
+electrician who has experience in connecting electric motors and working with 3-phase
+connection.
+To dismantle the motor with the impeller:
+1 – dismantle 10 fastening nuts, Fig. 1, element 3.
+2 – dismantle the decorative and protective motor linings. Fig. 1, element 3.
+3 – dismantle 10 clamping nuts Fig. 1, element 2.
+4 – dismantle the motor with the impeller, for this work 2 people are needed (motor is heavy!)
+The weight of the structure is 35 - 50 kg. This work must be done carefully
+so as not to damage the motor impeller and landing pins.
+The motor must be installed in the reverse order of dismantlement. Tighten the fasteners until
+the metal part stops against the seal. Avoid overtightening the fasteners as this can damage the
+fixing studs!
+During the first start after installing the motor, it is necessary to check the tightness of the
+motor mount to the roster. If air suction appears in some areas, tighten the fasteners on them.

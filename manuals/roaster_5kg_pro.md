@@ -1,0 +1,805 @@
+# Typhoon 5 kg PRO — Full Manual
+
+> **Source:** Typhoon_Roasters__manual__Typhoon_5kg_PRO_docx.pdf  
+> **Content:** Full extracted text from original document
+
+---
+
+Apparatus for drying, roasting and
+cooling loose products
+Typhoon 5 kg PRO
+Manual
+Technical Specification
+
+Manufacturer
+Typhoon roasters s.r.o
+Address: Česká Republika, Kaprova 42/14, Staré Město, 11000, Praha 1
+Tax Number: CZ08505306
+ID Number: 08505306
+Bank: Raiffeisen bank a.s.
+SWIFT CODE: RZBCCZPP
+Bank account: 1963201002/5500
+Contact number: +420 774 501 511
+Email: ds-sales@typhoon-roaster.com
+Please read this manual carefully before using the equipment. Keep it for future use and
+training of new employees
+Typhoon Roasters s.r.o. is constantly improving its products and reserves the right to make changes without prior
+notice. This manual contains general information and is not part of any contract or agreement. Although this
+manual has been prepared with a high level of accuracy and attention, it may still contain incomplete information
+or inaccuracies. Typhoon Roasters s.r.o. therefore accepts no liability for any such errors.
+Our team is available at any time to consult with partners and customers regarding updates or corrections to the
+manuals for our equipment and additional equipment. If you have any questions or suggestions, please contact
+Typhoon Roasters s.r.o. so we can review and address your request.
+The equipment may only be operated after this manual has been read and fully understood by all personnel
+working with the equipment. The manufacturer, Typhoon Roasters s.r.o., cannot be held liable for any damage or
+injury resulting from failure to follow the instructions in this manual or from disregarding standard norms and
+generally accepted safety precautions for installation, operation, maintenance, or repair of the equipment.
+2
+
+Table of contents
+Components 4
+Dimensions 6
+Preparing to start roasting 9
+Workplace requirements 9
+Coffee Roaster installation 10
+Electricity supply connection. 10
+Ventilation connection 11
+Read carefully before installation 12
+Transportation 12
+Certified personnel 12
+Electrical safety 12
+Installation without tension 12
+Risk of ignition 12
+Environment hazards 12
+Important information 14
+Warnings about the ways in which equipment and mechanisms shall not be used 15
+Improper Operation – Prohibited Actions 15
+First Start (Leveling the Equipment on the Roasting Chamber) in schemes 16
+Сheck before every start: 17
+Instructions for taking preventive actions 17
+Maintenance Instructions 18
+Information on other risks that remain despite precaution, safety and additional protective actions taken: 18
+Instruction on protective measures 19
+Main features of tools that can be installed on machines and mechanisms 19
+Conditions under which machines and mechanisms meet stability requirements during operation,
+transportation, assembly, disassembly, in the event of failure, as well as during testing or possible emergency
+situations 21
+Instructions for mounting and dismounting the transport frame 22
+Fire safety precautions and what to do in case of inflammation 23
+Disassembly roaster components instruction 24
+Disassembly of the control panel. 24
+Wet Cleaning 25
+Disassembly of the main circuit switcher 26
+Dismantling of the electric air heaters 27
+Dismounting the thermo probes 28
+Removing the Temperature Probes 29
+Disassembly of the cooling tray and the motor-reducer 30
+Removing the Cooling Tray 30
+Removing the Motor-Reducer 30
+Instruction for cleaning 31
+Routine Cleaning After Each Roast 31
+Full Cleaning (Every 150 Operating Hours) 31
+Partition for roasting 600 g coffee beans 32
+Maintenance Schedule Table 33
+Most common part failures and their repair methods 36
+Contacts 39
+3
+
+Components
+Fig. 1
+Fig.2
+4
+
+Components of «Typhoon 5 kg PRO»
+1. Loading hopper for green coffee beans
+2. Sample probe, coffee discharge mechanism to drop coffee to the cooling tray
+3. Built-in cooling tray with mixing blades
+4. Touchscreen
+5. Electrical components cabinet, 380V
+6. Cyclone system
+7. Chaff removal tray
+8. Visual inspection window
+9. Roasting chamber exhaust
+10. Cooling tray exhaust
+11. Support legs
+5
+
+Dimensions
+Note: All dimensions shown on the drawings are in millimeters (mm)
+Fig.3
+6
+
+Principal operation scheme
+Fig. 4
+1 – loading hopper
+2 – roast zone
+3 – product discharge zone from the roasting chamber
+4 – main motor
+5 – heat exchange units (electric heaters can be installed)
+6 – coffee drop mechanism of the cooling tray
+7 – double section filter grid
+8 – air duct for smoke removal
+Typhoon 5 kg PRO consists of a frame with a heat exchanger, a high-pressure fan (main motor),
+and a coffee roasting chamber. A filter grid is mounted between the main motor and the
+roasting chamber to catch the chaff produced during roasting. The product enters the roasting
+chamber, where the filter grid is positioned at the back. The pressure of the heated air creates a
+fluidized bed, allowing the product to roast evenly. The size and placement of the holes in the
+air distribution grid optimize the product’s rotation during roasting. After unloading, the roasted
+product is transferred from the roasting chamber to the cooling tray.
+7
+
+Parameters Typhoon 5 kg PRO
+Capacity up to 30 kg/hour
+Batch size 0,6 – 5 kg
+Electric heater
+capacity
+18 kW
+Electric power (without
+electric heaters’ power
+consumption)
+5 kW
+Connection power 23 kW
+Power consumption
+during the roasting
+process
+9 kWh
+Voltage 38A / 380 - 400 V
+Weight 480 kg
+Exhaust air volume
+(Roasting chamber)
+180 Nm³/h
+Exhaust air volume
+(Cooling tray)
+748 Nm³/h
+Energy cost for 1 kg of
+the product
+0,3 kWh
+8
+
+Preparing to start roasting
+Workplace requirements
+1. The working area for the roaster must be at least 25 m².
+2. Maintain a minimum of 1 meter of free space on all sides of the equipment (Fig. 5).
+3. The ceiling height must be at least 2 meters to allow proper installation and ventilation.
+4. Smoke detection and fire suppression systems must be installed in the roasting room.
+5. A powder fire extinguisher must be mounted on the wall near the roaster and clearly
+marked.
+Caution: Receiving the shipment will require two assistants, as well as a forklift and a pallet jack
+(with a minimum fork length of 1150 mm), both rated for the weight of the crate.
+Fig. 5
+9
+
+Coffee Roaster installation
+Caution: The roaster must be installed and operated only by a specialist trained in the safe
+operation and handling of this equipment. Upon completion of the training, a certificate will be
+issued authorizing the operator to use the machine.
+To reduce noise and vibration, please make sure to:
+1. Ensure an airtight connection between the ventilation system and the roaster’s air-duct
+outlets (smoke extractor and cooling tray).
+2. Check the equipment for any foreign objects that may obstruct the movement of
+mechanical parts.
+3. Inspect all mechanical connections and tighten any loose screws or fasteners.
+4. Tighten all contact terminals inside the roaster’s electrical cabinet ( the diagram is
+included in the accessory case supplied with the roaster).
+5. Connect the roaster to the power supply.
+6. Verify the phase sequence and correct it if necessary.
+7. If needed, apply acoustic foam to the wall to reduce noise levels.
+Caution: Proper operation of the roasting equipment, along with timely removal of chaff, helps
+prevent the risk of ignition.
+Electricity supply connection.
+A licensed professional must install or evaluate the power supply at the installation site,
+according to the specifications provided in this document.
+Connect the roaster to a 380 V power socket. The standard equipment package includes:
+- Portable power plug (3 m cable, male plug)
+- Stationary power socket (female socket) for installation in the roasting room
+The required electricity power sufficient for uninterrupted operation of the equipment must be
+at least 23 kW. Before putting the equipment into operation, all wire terminals must be fully
+tightened up. After 150 - 200 hours of operation, the terminals must be tightened up again.
+Please pay special attention to the terminals on electric heating elements and electric motors.
+After connection, ensure that the fan and other drives rotate in the correct direction.
+10
+
+Ventilation connection
+1. The exhaust piping must be as short as possible and installed with an upward slope of at
+least 12°. Sharp bends and reductions in diameter should be avoided.
+2. The exhaust ducts from the roasting chamber and cooling tray must not exceed 10
+meters in length and should include no more than two 90° bends. If this is not
+achievable, an additional exhaust fan must be installed in the system.
+3. Easily accessible cleaning openings and a drain valve for condensate that may
+accumulate inside the piping are recommended.
+4. The roaster emits a significant volume of exhaust gases into the atmosphere. It is
+essential to ensure sufficient room ventilation and an adequate air supply from
+outside.
+5. It is recommended to inspect the exhaust ducts for residue buildup every 150 hours of
+operation.
+6. The exhaust air outlet from the roaster must be directed vertically above the roof level.
+The chimney must be properly protected against rain and snow.
+7. All points where the exhaust pipe passes through the roof or walls must be fireproofed
+in accordance with the exhaust ventilation system requirements.
+8. Local building and fire safety regulations must be taken into account when designing
+and installing the chimney.
+9. In case of any uncertainty, please contact an authorized Typhoon technician.
+10. The operator is responsible for the correct operation and maintenance of the exhaust
+and chimney system.
+Note: A small amount of smoke may be released during the bean discharge process.
+This smoke should be removed either by a local extraction hood or by general
+room ventilation.
+There are 2 outputs with pipes diameter 101.6 mm. Roasting chamber output pipe located at
+the back of the coffee roaster and cooling table output pipe located below the main motor on
+the left side of the cooling table (Fig. 2)
+11
+
+Read carefully before installation
+Transportation
+Always check the load capacity of the vehicle used to transport this equipment. There is a risk of
+the equipment falling during loading or unloading, which may result in serious injury or even
+fatal accidents. Before loading or unloading, ensure that all safety requirements are met and
+that the vehicle is properly positioned and has sufficient lifting capacity.
+Certified personnel
+All work described in this manual may only be performed by certified personnel who are
+familiar with this manual, the functions of the equipment, and the applicable safety
+instructions.
+Electrical safety
+There is a direct risk to life from electric shock. Damage to the insulation or to any electrical
+component of the equipment may create a life-threatening hazard.
+Installation without tension
+All ventilation systems connected to the equipment must be installed without tension or strain
+to prevent pipe rupture and smoke leakage into the room.
+Risk of ignition
+There is a risk of ignition if coffee beans are not unloaded in time. We strongly advise not
+exceeding a temperature of 250 °C (482 °F).
+Environment hazards
+If the equipment is used in a restricted manner or without regard to safety requirements,
+environmental damage may occur.
+12
+
+Responsibility
+Warranty and Safety Notice
+Warranty: The warranty is void unless the product is installed and used strictly in accordance
+with all written instructions. The initial start-up of the roaster must be carried out under the
+guidance of a technical specialist from Typhoon Roasters s.r.o. Do not remove any labels,
+warnings, or rating plates from the roaster or its components, as doing so may void the
+manufacturer’s warranty.
+Operator Responsibility: Responsibility for health, safety, accident prevention, and compliance
+with environmental regulations rests with the operator. All personnel working near the roaster
+must be trained on all instructions and safety precautions. Despite all warnings and labeling,
+operating the roaster involves inherent risks.
+Safety Precautions: It is essential that the operator exercise caution while the machine is in use.
+Surfaces can become extremely hot, and moving parts are exposed during operation. Keep
+hands, hair, and loose clothing away from heat and all moving components.
+Product Handling: Products roasted in Typhoon roasters are not intended for direct
+consumption immediately after roasting. Any roasted products intended for consumption must
+be handled and prepared according to local health regulations. For specific requirements,
+contact the local health authority.
+Disclaimer: Typhoon Roasters s.r.o. is not liable for:
+● Use of the machinery in ways not described in this document.
+● Employment of untrained personnel.
+● Any alterations, modifications, or changes made to the roaster or its systems.
+Proper Use of Equipment: The operator is responsible for correct use of the equipment,
+including roasting and cooling coffee. Improper use can create safety hazards. Improper use
+includes, but is not limited to:
+● Using the equipment for products other than coffee without prior approval from
+Typhoon Roasters s.r.o.
+● Operating the roaster outside its specified limits (temperature, maximum batch capacity,
+electrical ratings, etc.).
+● Modifying the roaster or its systems.
+● Use by untrained personnel.
+● Ignoring safety precautions or engaging in unsafe work practices.
+● Removing warning labels or safety devices.
+● Using unauthorized spare parts.
+● Operating without awareness of risks or failure to take proper precautions.
+● Improper installation or operation in potentially explosive environments.
+13
+
+Important information
+1. The equipment must be installed in a clearly visible and accessible location.
+Installation must comply with all applicable regulations and be carried out in a
+well-ventilated area.
+2. The installation area must be clean and free of flammable substances.
+3. Parts that are legally protected by the manufacturer or its agents must not be altered or
+tampered with by the user.
+4. Coffee roasting equipment must be connected to pre-configured electrical and
+ventilation systems and installed by qualified personnel.
+5. This equipment operates with high-voltage electricity. Failure to follow the warnings or
+instructions in this manual may result in injury, death, or property damage.
+6. Only qualified personnel may operate the equipment, and only after reading and
+understanding all materials in this manual. Safe operation depends on proper handling,
+installation, and maintenance.
+7. Children and unauthorized third parties must not operate this equipment.
+8. The equipment may only be used for the purposes specified by the manufacturer.
+9. Unauthorized modifications or use of non-approved spare parts and accessories can
+cause fire, electric shock, or injury.
+10. Even when the equipment is not operating, the main power cable and socket may carry
+high voltage.
+11. Ensure that dust, corrosive gases, or flammable liquids do not accumulate near the
+equipment.
+12. The ambient temperature around the equipment must not exceed 40 °C (104 °F).
+13. Clean the roaster according to the recommended maintenance schedule; failure to do so
+may result in fire.
+14. When servicing any electronic components, ensure the equipment is fully de-energized.
+15. Hearing protection is recommended during operation, as the following airborne noise
+levels have been measured:
+A) Maximum A-weighted: 70.5 dBA
+B) Maximum C-weighted: 75 dBC
+14
+
+Warnings about the ways in which equipment and 
+mechanisms shall not be used
+1. It is not recommended to start electric air heaters without running the main motor;
+2. It is not recommended to operate the roaster without connecting to the ventilation
+system which includes smoke extraction pipes both from the roast chamber and the
+cooling tray.
+3. It is not recommended to use the equipment in case of heavy contamination of the
+internal surfaces such as: roasting chamber, chaff collecting and sifting container, section
+where electric air heaters are installed, Main Motor tube.
+4. It is not recommended to use the equipment in case of particularly strong vibration or
+extraneous noise coming from the electric cabinet and Main Motor work;
+5. It is not recommended to forcibly pull out the roast chamber with coffee if for some
+reason it comes out with difficulty - there is a risk of damage to the telescopic guides,
+which are not included to the warranty parts servicing;
+6. It is not recommended to use the equipment set on the transportation metal frame as
+this may cause lack of access to the equipment parts as well as increased vibration of
+the roaster frame and, as a result, damage to the elements of the electric cabinet.
+Improper Operation – Prohibited Actions
+1. Do not operate the equipment with the roasting chamber door open.
+2. Do not activate the Cooling Tray Blades function if there are any foreign objects inside
+the cooling tray.
+3. Do not operate the equipment if any component is improperly connected.
+4. Do not operate the equipment without proper electrical grounding.
+5. Do not use the equipment if any component is malfunctioning.
+6. Do not use the coffee roaster for purposes other than intended (e.g., roasting nuts,
+seeds, etc.).
+7. Do not operate the equipment if the roasting chamber is not correctly leveled.
+8. Do not operate the equipment if the power cable or any electrical component is
+damaged.
+9. Do not use the equipment if the chaff container is full.
+10. Do not operate the machine or activate the electric air heaters if the main motor fan is
+not functioning or running below 50% capacity.
+11. Do not operate the equipment if air intake to any of the fans is obstructed (e.g., objects
+or cloth blocking the motor’s protective housing) or if a motor is positioned too close to
+a wall.
+12. Do not use the equipment in a dirty condition, as this may cause damage to components
+such as the roasting chamber, thermocouples, electric heaters, or the main motor.
+Cleaning must be performed in accordance with Section 15 of this Manual.
+13. Do not apply excessive mechanical force to the roasting chamber.
+14. Do not turn off the main motor if the heating element temperature exceeds 180°C. After
+roasting, the machine must be cooled in Service Mode using the Motor button before
+being powered down.
+15
+
+First Start (Leveling the Equipment on the
+Roasting Chamber) in schemes
+When performing installation of the coffee roaster, it is necessary to:
+1. Remove the packaging from the roaster;
+2. Take the support legs, power socket and spare parts box from the cooling tray;
+3. Take out the shipping pack box from the roasting chamber. The box must contain all
+accompanying material;
+4. Remove the transportation metal frame from the equipment and place the roaster on the
+support legs;
+5. Install the coffee roaster in its proper place;
+6. Check the exterior of the coffee roaster for any visible mechanical damage;
+7. Install the power socket based on the length of the main cable;
+8. Check all sections and the chamber of the roaster to make sure there are no undue subjects
+in there;
+9. Strengthen the wiring for the roaster’s electric cabinet and the plug of the main cable;
+10. Ensure that all visible wiring, including the main cable, is intact;
+11. Check that the roaster’s chamber door and all the locks are tightly closed and fitted;
+12. Connect the ventilation to openings (Fig.2).
+13. Plug the main cable into the previously installed power socket;
+14. Switch on the power switch located next to the smoke exhaust outlet in the back of the
+roaster;
+15. Activate cooling tray blades to check the phasing. Improper phasing is discovered when the
+blades rotate counterclockwise (Fig. 6).
+16. Level the equipment on the roast chamber longitudinal axis X and transverse axis Y (Fig. 7).
+Fig. 6 Fig.7
+16
+
+Сheck before every start:
+1. Integrity of all wiring.
+2. The roaster door is properly closed.
+3. Cleanliness of the roaster interior.
+4. No foreign objects inside the roasting chamber.
+5. No foreign objects inside the cooling tray.
+6. The main power cable is plugged into the power outlet.
+7. The equipment is powered through the main power cable.
+8. Integrity of the roaster’s glass door, roasting chamber (front and rear sections), and
+internal lighting.
+9. No visible obstructions to the air intake or motors (e.g., cloths, bags), and the motor is
+not placed too close to a wall.
+10. Correct phasing of all motors.
+11. Functionality of all roaster components.
+12. Performance of the telescopic guides: smooth movement without unusual noises,
+vibrations, or resistance while being extended.
+13. Functionality of the roasting chamber and its clearances must be checked for smooth
+operation (testing must be performed while the roasting chamber is heated).
+Instructions for taking preventive actions
+1. All electric connections must be tightened up once in 150 of roast hours;
+(This procedure should be performed by a professional with knowledge of electrical and
+instrumentation engineering and trained in electrical safety for equipment up to 1000 Watts);
+2. Lubricate telescopic guides of the roasting chamber once in 400 roast hours;
+3. Adjust door hermetic sealing once in 600 roast hours;
+4. Check the equipment leveling once in 500 roast hours;
+5. Tighten up the fixing bolt of the smoke exhaust pipe once in 300 roast hours;
+6. Perform cleaning of coffee dust and oil from the inner parts surfaces once in 24 roast hours;
+7. Perform thorough cleaning of the inner surfaces once in 150 roast hours;
+8. Perform cleaning of the cooling tray once in 350 roast hours;
+9. Check cleanness of the ventilation tubes, change or clean them once in 3000 roast hours;
+10. Perform cleaning of the chaff container and its parts after each roast.
+17
+
+Maintenance Instructions
+Technical maintenance must be performed by qualified specialists from the Manufacturer’s
+company, if necessary, once every 3 years.
+If, for any reason, the Buyer needs to perform maintenance without the participation of the
+Manufacturer’s specialists, they may hire third-party specialists in the following areas:
+1. EC&I Engineers;
+2. Specialists in the field of electric connections;
+3. Technicians;
+4. Specialists in the field of repair and maintenance of electric motors.
+Information on other risks that remain despite precaution,
+safety and additional protective actions taken
+1. The risk of fire increases if the chaff collector is not emptied every hour of operation (6
+batches). In case of violation of this rule, as well as in case of fire or equipment
+malfunction, the supplier/seller has the right to terminate the warranty agreement.
+2. Failure to properly ground the equipment may result in damage to its components
+and/or electric shock to the operator or others nearby. The supplier/seller of this
+equipment reserves the right to terminate the warranty agreement in case of violation
+of this paragraph of the regulations;
+3. In the event of chaff ignition in the container, immediately unload the product from the
+roasting chamber. Close all air intake openings, switch off the electric air heaters, and
+keep the main motor running until the fire is fully extinguished or it is safe to remove the
+chaff container from the roaster;
+4. There is a risk of physical injury if the operating rules of the cooling tray blades are not
+observed. It is strictly forbidden to touch the blades during their operation, or to leave
+any undue objects in the cooling tray or use the cooling tray for other purposes than
+those intended;
+5. Warning labels are applied to the surface of the coffee roaster casing. For example, the
+front section of the roasting chamber (used for unloading roasted batches) can reach
+temperatures exceeding 150 °C, which may cause bodily injury in the form of burns;
+6. The pipe connected to the roasting chamber has a temperature of more than 110 °C and
+there is a risk of bodily injury in the form of burns during equipment operation.
+18
+
+Instruction on protective measures
+1. When unloading roasted coffee and during dry cleaning of the coffee roaster (using a
+vacuum cleaner or brush), heat-resistant gloves must be worn to prevent burns.
+2. For dry cleaning, it is recommended to open the main roaster door only when the air
+temperature in the lower chamber is below 180 °C and the main motor is switched off.
+3. The electrical cabinet may be opened for maintenance every 150 operating hours or in
+the event of a malfunction. Before opening the electrical cabinet, ensure that the
+equipment is fully disconnected from the power supply.
+4. Personal protective equipment must be used when working with the electrical cabinet.
+Required protective equipment:
+● Non-conducting gloves
+● Multimeter or Low Voltage (up to 1000V) Dual-Band voltage indicator
+● Tool with insulating pads
+● Dielectric carpets
+● Dielectric boots
+Main features of tools that can be installed on machines and
+mechanisms
+Fig. 8
+19
+
+1. Rotating the cooling tray blades, 1 pc.
+- worm-type reduction drive Q30 (i = 80) shaft in\out 11\14;
+- three-phase asynchronous electric motor (cima\innovari\italy) (0.09x1400) 80x9
+56v\4 TRIF56M 0.09\В14 switching circuit "star\triangle" 380V\220V, IP55.
+2. Fan of the cooling tray, 1 pc.
+- BDRS 180-60 (152.025.115).
+3. High pressure fan of the Main Motor responsible for mixing and fluidizing of the coffee
+batch during roasting, 1 pc
+- Electric motor 380-415/690W, 50 Hz;
+- Sealant (PTFE sealing (2) 50-65-10).
+4. Electric air heaters, 3 pcs.
+- ТENR 6 kW, 220V sketch, M20 x 1.5 socket and stainless steel ribbing.
+5. Temperature thermo probes, 2 pcs.
+- Thermo probes TTJE-361-80-3-F-2-1.5m TEM: -40 +250C d=3mm, thread
+M16*1.5.
+6. Door sealant, roasting chamber sealant, chaff container sealant (in order as following
+below)
+- Sealer 7-2 (door);
+- Sealer 7-6 (cyclone);
+- Sealer 4-2;
+- Porous self-adhesive rubber 15x12,7 mm;
+- Porous self-adhesive rubber 15x15 mm;
+- Sealer D-shape 10 mm;
+7. Roaster Glass Components (manufacturer's factory)
+- Door glass;
+- Lighting glass;
+- Roasting chamber glass (rectangular);
+- Roasting chamber glass (round).
+8. Roasting chamber motor supports, 2 pcs.
+- Telescopic guide (400 mm)
+9. Cooling table agitator (replaceable parts) (manufacturer's factory).
+- Fluoroplastic 4mm 1000*1000.
+10. Main circuit breaker, 1 pc.
+- Main emergency switch-disconnector VCF2 TeSys VARIO.
+11. Light bulb holder, 1 pc
+- Ceramic E14 cartridge (socket E14)
+12. Cyclone
+- Chaff collector
+- Engine W22 71 2P 0,37 kW
+- Basic construction
+- LED buttons 3 pcs., latching switch 2 pcs., emergency stop button 1 pcs., touch
+screen 1 pcs.
+- LED button 24V green 1NO XA2EW33B1 light;
+- LED button 24V red 1NO XA2EW34B1 LED light;
+- LED button 24V white 1NO XA2EW31B1;
+- Switch with short handle 2 positions 24V 1NO XA2ED21;
+- Emergency stop button 40mm swing-return red 1NZ XA2ES542 flex. and return
+swing-return (1NZ);
+- Screen mt8071ie.
+20
+
+Conditions under which machines and mechanisms meet
+stability requirements during operation, transportation,
+assembly, disassembly, in the event of failure, as well as
+during testing or possible emergency situations
+The following conditions must be met when using the equipment:
+1. The equipment shall be mounted on working support legs with each support leg secured
+to the floor.
+2. The equipment must be leveled in two positions according to the instructions on p. 16.
+3. The installation surface (floor) must be even;
+4. Lifting or moving the equipment by the cooling table is strictly prohibited.
+There must be a rigid installation surface, and all support legs must be in full contact with the
+floor covering.
+Transportation
+The equipment must be transported using the transport frame supplied. Place the equipment
+on a flat surface during transport and secure it with transport straps.
+21
+
+Instructions for dismounting the transport frame
+Fig. 9
+Frame dismounting Procedure
+1. Remove the transport panels
+2. Remove the box frame
+3. Lift the equipment using a manual or powered pallet truck
+4. Remove the bottom of the frame and install the bolts on the legs
+22
+
+Fire safety precautions and what to do in case of inflammation
+In the room where the coffee roaster is placed, it is necessary to have: fire extinguisher with a
+dry mixture (such fire extinguishers do not cause deformation of metal by its rapid cooling, but
+simply put out the fire).
+To prevent a fire, it is necessary to:
+1. Clean the chaff collector in a timely manner.
+2. Do not allow the roaster temperature to exceed 250 °C.
+3. Prevent chaff from entering the chamber with the electric air heaters (check the lower
+chamber for cleanliness every 10 roasts).
+In case of chaff ignition, it is necessary to:
+1. Unload the product into the cooling tray as quickly as possible.
+2. Shut off all air supply and open the exhaust outlet.
+3. Press the emergency stop button to interrupt the roast cycle. Then release (unscrew)
+the emergency button and switch the Main Motor to manual mode.
+4. Wait until the fire or smoldering has completely stopped, and if possible, remove the
+chaff container and extinguish the fire or smoldering using a dry chemical fire
+extinguisher.
+5. After extinguishing, wash the affected areas with warm water to remove any
+hazardous chemical residues from the extinguisher.
+23
+
+Disassembly roaster components instruction
+Disassembly of the control panel
+To dismount the control panel:
+1. Remove the buttons, unscrew the 4 front screws
+2. Remove the bracket, unscrew the 4 rear bolts
+Attention! All assemble/disassemble or maintenance work must be conducted by the
+qualified personnel. The equipment must be unplugged out of the electricity source during
+such procedures. Please follow technical safety recommendations!
+Fig. 10
+24
+
+Cyclone Wet-Cleaning Procedure
+During operation, the airflow inside the roasting system accumulates fats, moisture, chaff, and
+other by-products. These deposits build up inside the cyclone system over time, restricting
+airflow, increasing the risk of system malfunction, and negatively affecting roasted coffee
+quality. To prevent performance degradation and potential failure, the cyclone must be cleaned
+every 1,000 roasting hours.
+Cleaning Instructions
+The cyclone system may be cleaned using a directed jet of pressurized water. This method
+significantly simplifies the process and reduces the overall cleaning time.
+Required materials:
+1. Food-grade grease-removing detergent;
+2. Plastic water bucket;
+3. Warm water;
+4. Protective rubber gloves (to prevent skin contact with detergent);
+5. Standard dish sponge;
+6. Two microfiber cloths;
+7. If cleaning with a Kärcher pressure washer, items 2, 3, 5, and 6 are not required.
+Cleaning Procedure
+Cleaning must be carried out in two stages.
+Stage 1 – Cyclone Disassembly
+- Disconnect the cyclone motor from the main assembly (Fig. 15).
+- After disconnecting the motor, disassemble the cyclone into its individual components
+(Fig. 11).
+1 – Remove the engine mounting bolts
+2 – Remove the silicone engine gasket
+3 – Remove the engine itself
+Fig. 11
+25
+
+Stage 2 – Internal Cleaning
+- Clean the internal cyclone components either manually or with a directed jet of
+pressurized water.
+- Ensure all deposits are fully removed before reassembly.
+Disassembly of the main circuit switcher
+To mount or dismantle the main circuit switcher:
+1. Unscrew the 4 screws securing the panel.
+2. Remove the panel.
+Attention: All assembly, disassembly, and maintenance work must be performed by qualified
+personnel. The equipment must be disconnected from the power supply during these
+procedures. Follow all technical safety guidelines.
+Fig. 12
+26
+
+Dismantling of the electric air heaters
+1 – Electric air heaters, 3 pcs;
+2 – Nuts, 6 pcs;
+3 – Decorative insulating plate on 8 bolts.
+To install/uninstall the electric air heaters, it is necessary:
+1. Unscrew the bolts of the decorative insulating plate on 5 pcs;
+2. Remove the decorative insulating plate;
+3. Unscrew the fixing nuts of the electric air heater to be removed;
+4. Remove the silicone layer;
+5. Carefully remove the item from the equipment chamber;
+6. Dismantling is complete.
+Attention! All assemble/disassemble or maintenance work must be conducted by the
+qualified personnel. The equipment must be unplugged out of the electricity source during
+such procedures. Please follow technical safety recommendations!
+Fig. 13
+27
+
+Dismounting the Temperature Probes
+1 – Electric cabinet;
+2 – Thermo probe 1;
+3 – Thermo probe 2.
+Fig. 14
+Removing the Temperature Probes
+The temperature probes may only be removed by a qualified technician or electrician. To
+remove the probes, follow these steps:
+1. Disconnect the temperature probes from the terminals in the electrical cabinet.
+2. Unscrew the fixing nut securing the connection.
+3. Remove the probes from their nests.
+4. Dismantle the cooling tray as shown in the instructions to allow easier access to the
+probe wires.
+5. Carefully pull the wires out of the cable ducts.
+28
+
+Disassembly of the cooling tray and the motor-reducer
+The cooling tray is a non-dismantling structure and can be dismounted as a whole for further
+repair or cleaning.
+Removing the Cooling Tray
+To remove the cooling tray, it is necessary:
+1. Remove the 4 fixation bolts of the cooling tray p. 1 Fig. 15;
+2. Lift the cooling tray up p. 1 Fig. 15.
+Removing the Motor-Reducer
+To remove the motor-reducer, it is necessary:
+1. Loosen the fixation bolts of the motor-reducer, p. 2 Fig. 15;
+2. While holding the motor-reducer, unscrew the bolts p. 3 Fig. 15;
+3. Remove the motor-reducer from its seat p. 3 Fig. 15.
+Fig. 15
+Attention: All assembly, disassembly, or maintenance work must be performed by qualified
+personnel. The equipment must be disconnected from the power supply during these
+procedures. Follow all technical safety recommendations.
+29
+
+Instruction for cleaning
+Routine Cleaning After Each Roast
+The coffee roaster must be cleaned after every roast. Follow the steps below:
+1. After completing the roasting cycle, wait until the temperature on the lower thermo
+probe (air temperature) drops below 180 °C. Then switch off the Main Motor fan by
+setting the M/A switch to the M position.
+2. Remove the chaff container and use an industrial vacuum cleaner (or brush) to remove
+all accumulated chaff.
+3. Using a vacuum cleaner or brush, carefully remove all residual chaff and by-products
+from the guide rails and sliding channels of the container.
+4. Reinsert the cleaned chaff container into the guide rails and slide it completely into
+position.
+5. Set the roaster controls to Preparation Mode (A). The machine is now ready for the next
+roasting cycle.
+Full Cleaning (Every 150 Operating Hours)
+A complete cleaning of the equipment must be performed after every 150 hours of operation.
+Proceed as follows:
+1. Ensure that the temperature on both upper and lower probes is below 40 °C and above
+0 °C.
+2. Prepare all necessary tools and consumables, including:
+- Rubber gloves (for wet cleaning, floor cleaning, etc.)
+- Respirator (when working with chemicals)
+- Grease removers for ovens and stoves
+- Two buckets of warm water
+- Ash vacuum cleaner
+- Air compressor (if available)
+- Microfiber cloths (4 pcs)
+- Hard-surface dish sponges
+- Medium stiff brush (for removing coffee residue from chamber walls)
+- Food-grade or industrial stretch film
+3. Clean all accessible chamber surfaces with a medium stiff brush.
+4. Vacuum all areas where chaff and dust accumulate using an ash vacuum cleaner.
+5. Wipe accessible areas with a damp cloth.
+6. Protect the electric air heaters from chemicals and moisture using stretch film.
+7. Wash the roaster door first, followed by the inner chamber.
+8. Apply oven cleaner spray to the roaster door and allow it to act for 1–2 minutes.
+9. Remove chemical residues using a hard-surface dish sponge.
+30
+
+Fig. 16
+Partition for roasting 600 g coffee beans
+1 – Slot on the partition (on 2 sides)
+2 – Nut to secure the bolt (2 pcs.)
+When installing the partition, ensure that the gap between the spreading net and the edge of
+the partition is minimized. Otherwise, unroasted coffee beans may leave the roasting area
+during the process.
+31
+
+Maintenance Schedule Table
+32
+Type of work Date Status
+Responsible for
+implementation Signature
+
+33
+Type of work Date Status
+Responsible for
+implementation Signature
+
+34
+Type of work Date Status
+Responsible for
+implementation Signature
+
+Most common part failures and their repair
+methods
+- Cooling tray blades, cooling tray draught motor, lighting in the roast chamber,
+Main Motor and electric air heaters
+Fig. 17
+Ways of resolving an issue:
+1. Open the electric cabinet and find the circuit breakers as shown in the picture above
+(Fig. 17)
+2. Check the marked blocks 1 and 2, it is necessary that in block 1 and 2 all the circuit
+breakers should be switched on!
+If there was a malfunction in the work of the circuit breakers, you will have one or more circuit
+breakers knocked out as shown (1 circuit breaker on the right is knocked out, 2 circuit breakers
+are switched on, 3 all automatic machines are in working condition).
+Fig. 18
+35
+
+Mechanical malfunctions
+1. Blades of the cooling table pick up or break grains. Incorrect operation of the blades of
+the cooling table.
+If the cooling tray blades do not operate correctly (e.g., if the blades come into contact with the
+cooling tray), they must be adjusted. Each blade is equipped with 3 bolts that control its
+position (Fig. 19). Adjust the cooling tray blades to ensure they do not damage the coffee beans
+while allowing proper rotation and unloading. The coffee cooling time should not exceed 3
+minutes.
+Fig. 19
+2. Issues during coffee unloading from the roasting chamber to the cooling tray.
+During operation, it is recommended to monitor the smooth movement of the roasting
+chamber when discharging coffee into the cooling tray. The roasting chamber should move
+freely without the need for excessive force.
+If difficulties occur when unloading coffee, check for any components that may be contacting
+the air distribution grid of the roasting chamber.
+If contact is observed, adjust the roasting chamber to ensure the specified technical clearances
+are maintained.
+36
+
+Required Tools:
+1. A set of wrenches
+2. 6 spacer plates (2 cm × 2 cm) to maintain a 1.5 mm gap between the roasting chamber
+and the air distribution grid
+Adjustment Procedure:
+1. Ensure the roasting chamber is positioned inside the roaster.
+2. Loosen bolts 1, 2, and 3 (as shown in Fig. 20) on both sides of the roasting chamber.
+3. Insert 3 spacer plates on each side under the bolts connecting the roasting chamber to
+the telescopic guides, ensuring the gap between the roasting chamber and the air
+distribution grid.
+4. Tighten bolts 1, 2, and 3 on both sides, then remove the spacer plates.
+5. Preheat the roaster and verify that the roasting chamber operates without malfunction.
+Fig. 20
+37
+
+Contacts
+Typhoon roasters s.r.o
+Address: Česká Republika, Kaprova 42/14, Staré Město, 11000, Praha 1
+Email: ds-sales@typhoon-roaster.com
+Web-site: http://typhoon.coffee
+38

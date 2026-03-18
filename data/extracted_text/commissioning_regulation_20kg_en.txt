@@ -1,0 +1,130 @@
+--- Page 1 ---
+Commissioning Regulation
+for the 20 kg Roaster Model
+English translation of the original Russian document
+1. Before starting up the roaster with the client, make sure the phase sequence is correct
+on all motors.
+• Agitator motor: clockwise.
+• Cooling table motor: check the scroll housing direction. Usually counterclockwise.
+• Cooling table paddle motor: clockwise.
+• Main motor: follow the direction shown on the motor sticker; if there is no marking, confirm with the 
+instrumentation/automation engineer.
+• Exhaust motor: check the scroll housing direction. Usually counterclockwise.
+2. Ask the client to use headphones and send them the PDF manual.
+3. Start the commissioning process by following the manual page by page (starting from 
+page 5).
+3.1. Page 5: Main parts of the roaster
+1. Loading hopper, where the client loads green coffee beans.
+2. Roasting observation window.
+3. Bean sampler.
+4. Cooling table with paddles.
+5. Touchscreen control panel.
+3.2. Page 12: Main control screen (this can also be explained over the client’s video feed,
+whichever is more convenient)
+1. SP: Temperature setpoint for the roaster. The roaster reaches this value during preheating and 
+maintains it. During discharge, the temperature also moves toward the SP value.
+2. UP: Upper sensor. Sensor in the roasting chamber - bean temperature.
+3. Down: Lower sensor. Sensor in the heater chamber - air temperature.
+4. ROR: Change in roasting chamber temperature over 30 seconds.
+5. Motor %: Main motor power in percent.
+6. Mixer: Mixer rotation speed from 0 to 10.
+7. Exhaust: On electric roasters, this is a mechanical valve with positions 0-5, where 5 means fully open. 
+Changing this value on the touchscreen does not matter for electric roasters.
+8. Inflow: Opening/closing of the loading slide gate. Use only if the roasting chamber temperature rises 
+unexpectedly.
+9. Power %: Heater (TEN) power in percent.
+10. Green bean loading indicator: Indicates loading of green coffee.
+11. PLC/PC: Use PLC mode only.
+12. Roaster timings: Preparation, loading, roasting, discharge, and cooling times.
+13. Profile name: Name of the selected profile.
+14. Cor: Mixer and other parameters. Cor means profile correction (+ or -). Important: any change will 
+either decrease or increase a certain parameter. If roasting is set to manual mode, Cor will not be shown
+and there will simply be direct roast adjustment.
+15. Profile/manual selection: Switch between Profile for automatic roasting and Manual for manual 
+roasting.
+
+--- Page 2 ---
+16. Home button: Home page.
+17. Profiles icon: Profile menu.
+18. Settings icon: Settings menu.
+19. Manual/service mode icon: Manual or service mode.
+20. Error icon: Displays roaster errors.
+3.3. Profiles page (page 14)
+1. Cooling time - how long the cooling motor will run. Minutes are shown on the left, seconds on the right.
+This must be set before the first roast.
+2. Profiles - you can switch profiles with the arrows. Clicking the profile name allows you to rename it.
+3. Motor button - opens main motor control for automatic roasting. It can be adjusted in 30-second steps.
+If the client wants to keep one value, for example 90%, for the entire roast, set 90% at the beginning and
+then press the equal-sign icon.
+4. Mixer button - opens mixer control for automatic roasting. It can be adjusted in 30-second steps. If the 
+client wants to keep one value, for example 7, for the entire roast, set 7 at the beginning and then press 
+the equal-sign icon.
+5. Exhaust control - applies only to gas roasters with an actuator. On electric roasters, any value may be 
+shown.
+6. Plus icon - creates a new profile as a copy of the previous one.
+7. Minus icon - deletes the profile.
+8. Save icon - saves changes in the current profile.
+9. Inflow - loading slide gate opening. Usually left at 0 for the entire roast.
+10. Home page icon.
+11. Discharge setting - discharge by time or by temperature for both automatic and manual roasting. This
+must always be set before roasting.
+12. Profiles icon.
+13. Settings icon.
+14. Manual/service mode.
+15. Roasting control mode - by roasting chamber temperature or by heater power.
+16. Roaster error icon.
+Recommended approach: roasting by heater energy / heater power is the simplest method.
+Roasting by temperature means setting the target temperature to which the roaster will heat. As it 
+approaches that temperature, the roaster reduces heater power. However, the client should keep in mind
+that the roaster will not hold the exact set temperature because residual heat will continue increasing the
+temperature.
+3.4. Page 15: Roaster errors
+This interface window displays all errors the roaster may show. If an error appears, the client should 
+normally contact the technologist with a description of the problem.
+3.5. Page 16: Roaster settings
+1. Motor power during preheating - set to 100%.
+2. Mixer speed during loading - can be set to 7.
+3. Mixer speed during roasting - 0.
+4. Preparation temperature - 200°C. The roaster heats to this temperature and, after roasts, returns to 
+200°C as the starting temperature after BBP.
+5. Exhaust motor during preparation - 10.
+6. Exhaust motor during discharge - 10.
+
+--- Page 3 ---
+7. Loading time - 0 s.
+8. Parameters on the right side of the screen are program parameters; do not touch or change them.
+3.6. Page 16: Manual mode of the roaster
+This mode is used to check motor phasing, cool the roaster, and perform service operations.
+1. Open the roaster jaw.
+2. Close the roaster jaw.
+3. Cooling table paddles.
+4. Cooling table motor.
+5. Exhaust motor.
+6. Exhaust actuator.
+7. Loading slide gate.
+8. Main motor.
+9. Mixer motor.
+10. Heaters.
+3.7. Roaster buttons
+1. Green Start button. When pressed, the loading slide gate opens and the green coffee moves into the 
+roasting chamber. After loading, press it a second time to begin roasting.
+2. Red Stop button. If pressed during roasting, roasting stops and the coffee is discharged.
+3. Motor button. After the coffee is discharged and the cooling time limit expires, this motor can be 
+switched on again and then switched off again.
+4. Cooling table paddles button - turns the paddles on/off.
+5. Light switch - on/off.
+6. Preparation on/off switch. In preparation mode, the roaster preheats and roasts. When switched off, 
+the motors stop.
+7. Emergency stop mushroom button. When pressed, the motors switch off.
+4. Roaster startup, preheating, and roasting
+After explaining the roaster functions to the client, you can begin preheating the roaster. Before that, 
+make sure that the exhaust valve is open, all doors and the jaw are closed, the preparation temperature 
+is set, the cooling time is set, and the discharge temperature is set.
+Wait 20 minutes for the roaster to preheat. After preheating, carry out a roast.
+After roasting, explain to the client that after every four batches they need to exit preparation mode in 
+order to empty the chaff collector. Then explain how to cool the roaster correctly. For this, go to manual 
+mode, open the loading slide gate, switch the main motor to 40%, and turn on the exhaust motor and 
+exhaust actuator (the roaster must be switched out of preparation mode).
+5. Conclusion
+Thank the client for their time and stay in touch afterward. Then send the documents on how to clean the
+roaster, the filter (if installed), and how to connect Artisan or Cropster.
