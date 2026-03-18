@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Typhoon Roasters AI Service</title>
+    <link rel="stylesheet" href="/static/style.css">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+<body>
+    <div class="app">
+        <!-- Header -->
+        <header class="header">
+            <div class="header-left">
+                <h1 class="logo">TYPHOON</h1>
+                <span class="subtitle">AI Service Assistant</span>
+            </div>
+            <div class="header-right">
+                <div class="mode-toggle">
+                    <button class="mode-btn active" data-mode="engineer">Engineer</button>
+                    <button class="mode-btn" data-mode="client">Client</button>
+                </div>
+            </div>
+        </header>
+
+        <!-- Chat area -->
+        <main class="chat-area" id="chatArea">
+            <div class="welcome-message" id="welcomeMessage">
+                <div class="welcome-icon">&#9749;</div>
+                <h2>Typhoon Roasters AI Service</h2>
+                <p id="welcomeText">Engineer mode: detailed diagnostics with case references, procedures, and manual citations.</p>
+                <div class="quick-questions">
+                    <button class="quick-btn" data-question="What are the most common issues with Typhoon 5kg?">Common 5kg issues</button>
+                    <button class="quick-btn" data-question="How to check heater resistance?">Heater resistance check</button>
+                    <button class="quick-btn" data-question="VFD is showing an error, what to check?">VFD troubleshooting</button>
+                    <button class="quick-btn" data-question="Smoke coming from the roaster during operation">Smoke issue</button>
+                </div>
+            </div>
+        </main>
+
+        <!-- Sources panel -->
+        <div class="sources-bar" id="sourcesBar" style="display: none;">
+            <span class="sources-label">Sources:</span>
+            <div class="sources-list" id="sourcesList"></div>
+        </div>
+
+        <!-- Input area -->
+        <footer class="input-area">
+            <div class="input-wrapper">
+                <textarea
+                    id="messageInput"
+                    placeholder="Describe the issue or ask a question..."
+                    rows="1"
+                    autofocus
+                ></textarea>
+                <button id="sendBtn" class="send-btn" disabled>
+                    <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                        <path d="M22 2L11 13"></path>
+                        <path d="M22 2L15 22L11 13L2 9L22 2Z"></path>
+                    </svg>
+                </button>
+            </div>
+        </footer>
+    </div>
+
+    <script src="/static/app.js"></script>
+</body>
+</html>

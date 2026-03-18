@@ -96,9 +96,61 @@ AI-service-Typhoon/
 3. **Condensate fire risk** — one serious case of condensate catching fire in exhaust pipe → filter destroyed. Regular pipe cleaning mandatory.
 4. **30 electro sensor design** — beans fly into upper sensor opening. Needs protective plate riveted from inside.
 
-## Usage
+## AI Service (Chat Prototype)
 
-This knowledge base powers:
+Interactive AI-powered chat for diagnosing roaster issues, built on the knowledge base above.
+
+### Quick Start
+
+```bash
+# 1. Clone
+git clone https://github.com/neistoviu/AI-service-Typhoon.git
+cd AI-service-Typhoon
+
+# 2. Install dependencies
+pip install -r requirements.txt
+
+# 3. Set API key
+cp .env.example .env
+# Edit .env and paste your Anthropic API key
+
+# 4. Run
+python run.py
+```
+
+Open **http://localhost:8000** in your browser.
+
+### Two Modes
+
+| Mode | Audience | What it does |
+|------|----------|-------------|
+| **Engineer** | Service technicians | Detailed diagnostics, case references, procedure links, manual citations |
+| **Client** | Roaster owners | Simple troubleshooting steps, safety guidance, escalation criteria |
+
+### Tech Stack
+
+- **Backend:** Python + FastAPI
+- **AI:** Claude (Anthropic API) with contextual knowledge retrieval
+- **Frontend:** Vanilla HTML/CSS/JS chat interface
+- **Knowledge retrieval:** TF-IDF keyword search over 45 markdown documents
+
+### Project Structure (app code)
+
+```
+app/
+├── main.py          # FastAPI routes + static file serving
+├── chat.py          # Claude API integration + prompt building
+├── knowledge.py     # Knowledge base loader + search engine
+└── prompts.py       # System prompts for engineer/client modes
+static/
+├── index.html       # Chat interface
+├── style.css        # Styles
+└── app.js           # Client-side logic
+```
+
+## Usage (Knowledge Base)
+
+This knowledge base also powers:
 1. **AI service chatbot** — symptom → category → solution pipeline
 2. **Technician training** — structured onboarding material
 3. **Case management** — monthly updates from Monday.com
