@@ -47,6 +47,34 @@ async def health():
     return {"status": "ok", "knowledge_base": stats}
 
 
+@app.get("/api/debug")
+async def debug():
+    """Debug endpoint to test Claude API connectivity."""
+    import os
+    key = os.environ.get("ANTHROPIC_API_KEY", "")
+    key_preview = f"{key[:12]}...{key[-4:]}" if len(key) > 16 else "(not set or too short)"
+    try:
+        response = await chat_service.client.messages.create(
+            model=chat_service.MODEL,
+            max_tokens=50,
+            messages=[{"role": "user", "content": "Say OK"}],
+        )
+        return {
+            "status": "ok",
+            "api_key_preview": key_preview,
+            "model": chat_service.MODEL,
+            "test_response": response.content[0].text,
+        }
+    except Exception as e:
+        return {
+            "status": "error",
+            "api_key_preview": key_preview,
+            "model": chat_service.MODEL,
+            "error_type": type(e).__name__,
+            "error": str(e),
+        }
+
+
 @app.post("/api/chat")
 async def chat(request: ChatRequest):
     try:
