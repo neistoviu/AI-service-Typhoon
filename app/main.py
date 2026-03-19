@@ -43,8 +43,30 @@ class ChatResponse(BaseModel):
 
 @app.get("/api/health")
 async def health():
+    import os
     stats = kb.get_stats()
-    return {"status": "ok", "knowledge_base": stats}
+    key = os.environ.get("ANTHROPIC_API_KEY", "")
+    key_status = f"set ({len(key)} chars)" if len(key) > 10 else "NOT SET"
+
+    # Test Claude API connectivity
+    api_test = "not tested"
+    try:
+        response = await chat_service.client.messages.create(
+            model=chat_service.MODEL,
+            max_tokens=20,
+            messages=[{"role": "user", "content": "Say OK"}],
+        )
+        api_test = f"ok: {response.content[0].text}"
+    except Exception as e:
+        api_test = f"error: {type(e).__name__}: {str(e)}"
+
+    return {
+        "status": "ok",
+        "knowledge_base": stats,
+        "api_key_status": key_status,
+        "api_test": api_test,
+        "model": chat_service.MODEL,
+    }
 
 
 @app.get("/api/debug")
