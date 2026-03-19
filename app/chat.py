@@ -16,7 +16,7 @@ class ChatService:
 
     def __init__(self, kb: KnowledgeBase):
         self.kb = kb
-        self.client = anthropic.Anthropic()
+        self.client = anthropic.AsyncAnthropic()
 
     async def chat(
         self,
@@ -45,8 +45,8 @@ class ChatService:
                 })
         messages.append({"role": "user", "content": message})
 
-        # Call Claude API
-        response = self.client.messages.create(
+        # Call Claude API (async)
+        response = await self.client.messages.create(
             model=self.MODEL,
             max_tokens=self.MAX_TOKENS,
             system=system_with_context,
