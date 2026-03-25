@@ -73,20 +73,24 @@ async def health():
         result["knowledge_base_error"] = str(e)
 
     # API key status
-    key = os.environ.get("ANTHROPIC_API_KEY", "")
+    key = os.environ.get("OPENAI_API_KEY", "")
     result["api_key_status"] = f"set ({len(key)} chars)" if len(key) > 10 else "NOT SET"
+    result["provider"] = "openai"
     result["model"] = chat_service.MODEL
 
-    # Test Claude API connectivity
-    try:
-        response = await chat_service.client.messages.create(
-            model=chat_service.MODEL,
-            max_tokens=20,
-            messages=[{"role": "user", "content": "Say OK"}],
-        )
-        result["api_test"] = f"ok: {response.content[0].text}"
-    except Exception as e:
-        result["api_test"] = f"error: {type(e).__name__}: {str(e)}"
+    # Test OpenAI API connectivity
+    if not key:
+        result["api_test"] = "skipped: OPENAI_API_KEY not set"
+    else:
+        try:
+            response = await chat_service.client.responses.create(
+                model=chat_service.MODEL,
+                input="Say OK",
+                max_output_tokens=20,
+            )
+            result["api_test"] = f"ok: {chat_service._extract_text(response)}"
+        except Exception as e:
+            result["api_test"] = f"error: {type(e).__name__}: {str(e)}"
 
     return result
 
@@ -107,7 +111,7 @@ async def chat(request: ChatRequest):
         relevant_docs = kb.search(request.message, top_k=5)
         sources = [doc.path for doc in relevant_docs]
 
-        # Get response from Claude
+        # Get response from OpenAI
         response_text = await chat_service.chat(
             message=request.message,
             mode=request.mode,
@@ -118,6 +122,11 @@ async def chat(request: ChatRequest):
 
     except Exception as e:
         error_detail = f"{type(e).__name__}: {str(e)}"
+        if str(e) == "OPENAI_API_KEY is not set":
+            return JSONResponse(
+                status_code=503,
+                content={"detail": "OPENAI_API_KEY is not set"},
+            )
         print(f"[CHAT ERROR] {error_detail}")
         traceback.print_exc()
         return JSONResponse(

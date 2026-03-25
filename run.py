@@ -6,11 +6,11 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-if not os.environ.get("ANTHROPIC_API_KEY"):
-    print("\n  ERROR: ANTHROPIC_API_KEY not set.")
+if not os.environ.get("OPENAI_API_KEY"):
+    print("\n  ERROR: OPENAI_API_KEY not set.")
     print("  Copy .env.example to .env and add your key:")
     print("    cp .env.example .env")
-    print("    # Edit .env with your Anthropic API key\n")
+    print("    # Edit .env with your OpenAI API key\n")
     raise SystemExit(1)
 
 import uvicorn

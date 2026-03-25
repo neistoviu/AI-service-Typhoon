@@ -112,7 +112,7 @@ pip install -r requirements.txt
 
 # 3. Set API key
 cp .env.example .env
-# Edit .env and paste your Anthropic API key
+# Edit .env and paste your OpenAI API key
 
 # 4. Run
 python run.py
@@ -130,7 +130,7 @@ Open **http://localhost:8000** in your browser.
 ### Tech Stack
 
 - **Backend:** Python + FastAPI
-- **AI:** Claude (Anthropic API) with contextual knowledge retrieval
+- **AI:** OpenAI GPT API with contextual knowledge retrieval
 - **Frontend:** Vanilla HTML/CSS/JS chat interface
 - **Knowledge retrieval:** TF-IDF keyword search over 45 markdown documents
 
@@ -139,7 +139,7 @@ Open **http://localhost:8000** in your browser.
 ```
 app/
 ├── main.py          # FastAPI routes + static file serving
-├── chat.py          # Claude API integration + prompt building
+├── chat.py          # OpenAI API integration + prompt building
 ├── knowledge.py     # Knowledge base loader + search engine
 └── prompts.py       # System prompts for engineer/client modes
 static/
